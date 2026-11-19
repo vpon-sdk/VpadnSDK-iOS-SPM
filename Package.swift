@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VpadnSDKAdKit",
-            url: "https://github.com/vpon-sdk/VpadnSDK-iOS-SPM/releases/download/5.8.2-beta3/VpadnSDKiOS-5.8.2.zip",
-            checksum: "49e2766746fffd1feef1a3c122c971680752d962bcea9b023a8fe4d2cbe0dcfc"
+            url: "https://github.com/vpon-sdk/VpadnSDK-iOS-SPM/releases/download/5.8.2-beta5/VpadnSDKiOS-5.8.2.zip",
+            checksum: "abbae41b12b2d90843ebb2f97adfaffdec27055b0487eb4ed63e3a8546ac8f9e"
         )
     ]
 )
